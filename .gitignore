@@ -32,38 +32,18 @@ build/
 # Server-specific
 server/config/*.js
 
-# React Native (client)
-client/MabroukApp/node_modules/
-client/MabroukApp/ios/Pods/
-client/MabroukApp/ios/build/
-client/MabroukApp/android/.gradle/
-client/MabroukApp/android/app/build/
-client/MabroukApp/android/.idea/
-client/MabroukApp/android/local.properties
-client/MabroukApp/android/app/*.keystore
-client/MabroukApp/.expo/
-client/MabroukApp/web-build/
-client/MabroukApp/expo-shared/
-
-# Metro bundler cache
-client/MabroukApp/.metro/
-client/MabroukApp/.expo/
-client/MabroukApp/web-build/
-
 # iOS
 client/MabroukApp/ios/Pods/
 client/MabroukApp/ios/build/
-client/MabroukApp/ios/DerivedData/
-client/MabroukApp/ios/.expo/
-client/MabroukApp/ios/.expo-shared/
 
 # Android
 client/MabroukApp/android/.gradle/
-client/MabroukApp/android/local.properties
-client/MabroukApp/android/.idea/
 client/MabroukApp/android/app/build/
-client/MabroukApp/android/app/*.keystore
-client/MabroukApp/android/.expo/
-client/MabroukApp/android/expo-shared/
+
+# Expo
+client/MabroukApp/.expo/
+client/MabroukApp/expo-shared/
+client/MabroukApp/web-build/
 
 # Miscellaneous
+
